@@ -1,2 +1,3 @@
 # jira-time-breakdown
-Jira reports based on worklogs
+
+Jira reports based on worklogs.
